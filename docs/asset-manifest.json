@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c5e439c.css",
+    "main.js": "/static/js/main.5052c1b5.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "workbox-6716fad7.js.map": "/workbox-6716fad7.js.map",
+    "static/media/undraw_page_not_found_re_e9o6.svg": "/static/media/undraw_page_not_found_re_e9o6.16cc89570136c3e5df24a9b7814b9510.svg",
+    "workbox-6716fad7.js": "/workbox-6716fad7.js",
+    "static/media/undraw_going_up_re_86kg.svg": "/static/media/undraw_going_up_re_86kg.71f7699de0d2a37c446f52cb9cd35b2d.svg",
+    "static/media/undraw_link_shortener_mvf6.svg": "/static/media/undraw_link_shortener_mvf6.1d3c5163916f96a524b1026f2bb60a2c.svg",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/media/undraw_no_data_re_kwbl.svg": "/static/media/undraw_no_data_re_kwbl.74c90039e9eb5899a6e999eab5f605aa.svg",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "static/media/avax.svg": "/static/media/avax.6721fa77a9795a482325f3655129fe98.svg",
+    "static/media/celo.svg": "/static/media/celo.3f23305acd5d57f46c83af2e52ac262e.svg",
+    "main.9c5e439c.css.map": "/static/css/main.9c5e439c.css.map",
+    "main.5052c1b5.js.map": "/static/js/main.5052c1b5.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5e439c.css",
+    "static/js/main.5052c1b5.js"
+  ]
+}
